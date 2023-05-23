@@ -1,0 +1,6 @@
+@echo off
+echo Loading...
+python ".\Face_Recognition.py"
+echo.
+echo Exiting...
+pause
